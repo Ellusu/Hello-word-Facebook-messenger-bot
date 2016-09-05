@@ -1,6 +1,6 @@
 <?php 
-  $access_token = "EAAOYrBTgwTgBAIZCoqol5Xj9UVpCZCOVRKtnTS6RpXrfCrspo3XAWZA5GbPdjmcRuG4hzzLZAzijm3MovhTpQ6c755aTV0Gedccj7ZC54SKPZA9rHPdnjm3ypNhNCojaebLWkUkTRza2RZBsoL8GU1uiP6SbbMfSOfvaY8SK1F9cgZDZD";
-  $verify_token = "fb_time_bot";
+  $access_token = "<il tuo token d'accesso>";
+  $verify_token = "<il tuo token di verifica>";
   $hub_verify_token = null;
 
   $content = file_get_contents('php://input');
